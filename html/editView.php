@@ -27,7 +27,7 @@
             <table class="table center">
 
                 
-                    <td><input type ="text" hidden value ="<?php echo $users["idUser"]?>" name = "id" required></td>
+                    <input type ="text" hidden value ="<?php echo $users["idUser"]?>" name = "id" required>
                 <tr>
                     <td>Nome:</td>
                     <td><input type="text"  value ="<?php echo $users["name"]?>" name = "name" required></td>
