@@ -1,0 +1,20 @@
+@import url("bootstrap.css");
+ 
+body{
+    text-align: center;
+ }
+ .home{
+    text-align: center;
+
+    }
+ ul{ 
+    list-style-type: none;
+ }
+ td{
+    text-align: center;
+ }
+ .center{
+   width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+ }
